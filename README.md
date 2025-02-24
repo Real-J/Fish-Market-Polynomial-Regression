@@ -87,5 +87,4 @@ For **higher degrees (e.g., 3 or 4),** more polynomial terms are added to captur
 ## 6️⃣ Conclusion
 Polynomial Regression effectively models the relationship between a fish’s physical characteristics and its weight. The high **R² score (92.82%)** demonstrates that **height, width, and species information significantly contribute to accurate weight prediction**.
 
-This project serves as an excellent example of applying **supervised learning algorithms to real-world datasets**. 🚀
 
